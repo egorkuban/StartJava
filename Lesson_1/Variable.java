@@ -9,15 +9,15 @@ public class Variable {
     char motherBoard = 'M';
     boolean notebook = false;
     String cpu = "Intel (R) Core (TM) i3-3240";
-    System.out.println("Number CPU" + numberCPU);
-    System.out.println("RAM Mb" + RamMb);
-    System.out.println("graphics card Mb" + graphicsCardMsiMb);
-    System.out.println("The average processor speed" + processorSpeed);
-    System.out.println("CPU frequency" + cpuChz);
-    System.out.println("Hard Disk Memory Kb" + hardDiskMemoryKb);
-    System.out.println("MSI mother Board" + motherBoard);
-    System.out.println("notebook" + notebook);
-    System.out.println("The processor name"+cpu);
+    System.out.println("Number CPU " + numberCPU); // TODO 
+    System.out.println("RAM Mb " + RamMb);
+    System.out.println("graphics card Mb " + graphicsCardMsiMb);
+    System.out.println("The average processor speed " + processorSpeed);
+    System.out.println("CPU frequency " + cpuChz);
+    System.out.println("Hard Disk Memory Kb " + hardDiskMemoryKb);
+    System.out.println("MSI mother Board " + motherBoard);
+    System.out.println("notebook " + notebook);
+    System.out.println("The processor name "+cpu);
   }
 
 }
